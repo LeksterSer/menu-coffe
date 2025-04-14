@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Проект"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "меню кафе"
+	}
+}
